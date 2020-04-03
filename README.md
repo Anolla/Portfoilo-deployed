@@ -6,20 +6,12 @@ Number and name of feature: Feature #1: Deployment
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 19:00
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
 
 - view a unique portfolio so that the developer’s projects and skills stand out.
 
 Number and name of feature: Feature #2: Add functionality
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
