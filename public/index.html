@@ -165,9 +165,6 @@
                     <h2>Contact</h2>
                 </header>
 
-                <p>Elementum sem parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc orci ridiculus faucibus a consectetur. Porttitor
-                    curae mauris urna mi dolor.</p>
-
                 <form method="post" action="#">
                     <div class="row">
                         <div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
@@ -205,6 +202,20 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
+    <script>
+        var video = document.getElementById("myVideo");
+        var btn = document.getElementById("myBtn");
+
+        function myFunction() {
+            if (video.paused) {
+                video.play();
+                btn.innerHTML = "Pause";
+            } else {
+                video.pause();
+                btn.innerHTML = "Play";
+            }
+        }
+    </script>
 
 </body>
 
